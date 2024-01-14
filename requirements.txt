@@ -1,0 +1,8 @@
+pydantic~=2.5.3
+langchain==0.1.0
+langchain-openai
+openai
+langsmith
+uvicorn~=0.23.2
+fastapi~=0.109.0
+langserve~=0.0.39
